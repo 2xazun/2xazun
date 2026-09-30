@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to <a href="https://github.com/2xazun"><img src="https://img.shields.io/badge/2xazun-3B82F6?style=flat&logo=github&logoColor=white"></a>'s Github</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome!&fontSize=50&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Backend%20and%20Data&fontSize=50&fontAlignY=35" />
 </p>
 
 <h2 align="center">
@@ -35,7 +35,7 @@
 ## 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio" />
   <img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=figma,notion" />
 </p>
@@ -44,18 +44,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2xazun&show_icons=true&theme=dark" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=2xazun&theme=dark" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2xazun&layout=compact&theme=dark" />
 </p>
