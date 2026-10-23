@@ -50,6 +50,9 @@
   <img src="https://streak-stats.demolab.com?user=2xazun&theme=dark" />
 </p>
 
+---
+
+## 😺 Farm
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/2xazun"/>
